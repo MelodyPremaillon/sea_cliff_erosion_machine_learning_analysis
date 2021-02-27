@@ -20,4 +20,6 @@ To verify, I made the threshold vary betwwen 10 cm/yr and 20 cm/yr, each time I 
 
 ![matrice_rang_seuilcut](https://user-images.githubusercontent.com/33718108/109390552-a506f180-7912-11eb-8ebc-f1919638a2b0.png)
 
+So this graph says that the two main parameters I spotted (number of freezing days and rock resistance) are always the two more important variables to predict wether the erosion rate will be slow or fast. The threshold values does not have an influence on the importance of this two variables.
 
+The conclusion is, before building a house with a magnificent sea view on the top of a cliff, please verify the rock is not to soft and the climate is not too cold!
